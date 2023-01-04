@@ -1,0 +1,15 @@
+{
+    "@@locale": "ru",
+    "appTitle": "test_app",
+    "settings": "Настройки",
+    "myCodes": "Мои коды",
+    "allCodes":"Все коды",
+    "profile": "Профиль",
+    "favorites": "Избранное",
+    "cars": "Машины",
+    "add": "Добавить",
+    "english": "Английский",
+    "russian": "Русский",
+    "moreInformationHere": "Больше информации здесь",
+    "details": "Подробнее"
+}
